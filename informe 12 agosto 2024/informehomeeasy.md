@@ -25,12 +25,14 @@ Este informe tratara sobre un análisis realizado a nuestra web HOME EASY, el cu
 ## <center>Introducción
 Home Easy, es una empresa relativamente nueva en el área, dedicada al presupuesto y posterior venta de diferentes tipos de hormigón por metro cubico. El objetivo de este análisis es revertir prontamente el daño si es que fue causado y si no realizar un escaneo preventivo
 
-## <center>Antecedentes del caso
-Home Easy es una plataforma que presta servicios a clientes y gestiona presupuestos para proyectos. El fondo de conjunto de cooperación Chile-México ha sufrido un ataque durante la implementación de una de sus infraestructuras críticas y por lo tanto es necesario un análisis profundo y recolectar la información de daño a nivel de ciberseguridad
-
 <p align="center">
 <img src="./imagen/login.jpg">
 </p>
+
+## <center>Antecedentes del caso
+Home Easy es una plataforma que presta servicios a clientes y gestiona presupuestos para proyectos. El fondo de conjunto de cooperación Chile-México ha sufrido un ataque durante la implementación de una de sus infraestructuras críticas y por lo tanto es necesario un análisis profundo y recolectar la información de daño a nivel de ciberseguridad
+
+
 
 ## <center>Objetivos del análisis
 Realizar un análisis forense exhaustivo para identificar las vulnerabilidades explotadas, recolectar evidencia y determinar la extensión del compromiso
